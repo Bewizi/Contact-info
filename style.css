@@ -117,11 +117,11 @@ body{
         flex-direction: column;
         border-radius: none;
         width: 300px;
-        margin-inline: auto;
     }
     .box-1{
         border-radius: none;
         width: 300px;
+        font-size: 1.5em;
     }
     
     figcaption{
@@ -130,6 +130,8 @@ body{
     }
     input{
         width: 100%;
+        border-radius: 5px;
+        font-size: 1em;
     }
     .box-2{
         min-width: 400px;
